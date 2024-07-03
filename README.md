@@ -1,0 +1,2 @@
+# pokemonbyresnetandvgg
+利用resnet18和vgg16实现pokemon分类识别
